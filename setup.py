@@ -1,10 +1,17 @@
 from distutils.core import setup
+
+
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+    
 setup(
   name='applepyautomator',
   packages=['applepyautomator'],
   version='0.1',
   license='MIT',
   description='applepyautomator is a simplified implementation of applescript automation for macOs in python3. With applepyautomator you can easily automate ur macOs without having to write applescript or using automator.',
+  long_description=long_description,
+  long_description_content_type="text/markdown",
   author='Hardik Sharma',
   author_email='sharmahardikdev@gmail.com',
   url='https://github.com/hardik1504/applepyautomator',
