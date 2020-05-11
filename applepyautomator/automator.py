@@ -120,7 +120,7 @@ def press_combination(code, keys, delay=0.125):
             raise Exception("Cannot Pass one key more than once")
         keys_dict = []
         for item in keys:
-            if item == COMMON_KEYS.COMMAND or item == COMMON_KEYS.OPTION or item == COMMON_KEYS.LSHIFT or item == COMMON_KEYS.RSHIFT:
+            if item == COMMON_KEYS.COMMAND or item == CONTROL_KEYS.OPTION or item == COMMON_KEYS.LSHIFT or item == COMMON_KEYS.RSHIFT:
                 if item == COMMON_KEYS.COMMAND:
                     keys_dict.append("command down")
                 if item == COMMON_KEYS.CONTROL:
