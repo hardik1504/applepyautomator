@@ -49,24 +49,30 @@ keycode.COMMON_KEYS
 ```
 contains keycodes for common keys such as ENTER, ESC, TAB, SPACE, CONTROL, COMMAND, OPTION etc.
 
+
 ```python
 keycode.ALPHABETS
 ```
 contains keycodes for alphabets from a-z and A-Z.
+
 
 ```python
 keycode.FUNCT_KEYS
 ```
 contains keycodes for function keys F1-F12
 
-```pythonkeycode.NUMBERS
+
+```python
+keycode.NUMBERS
 ```
 contains keycodes for numbers 0-9
+
 
 ```python
 keycode.SPECIAL_CHARS
 ```
 contains keycodes for special characters
+
 
 similarly key codes for common shortcuts are provided in `shortcuts.SHORTCUTS` class
 
