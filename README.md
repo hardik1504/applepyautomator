@@ -74,7 +74,11 @@ keycode.SPECIAL_CHARS
 contains keycodes for special characters
 
 
-similarly key codes for common shortcuts are provided in `shortcuts.SHORTCUTS` class
+similarly key codes for common shortcuts are provided in class
+```python
+shortcuts.SHORTCUTS
+```
+
 
 In order to automate a keypress call press_key function in automator which takes keycode as an argument. A keycode can be passed in the press_key function using available keys in classes mentioned above. (complete list of available keys and shortcuts is provided in keycodes.txt file)
 
