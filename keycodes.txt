@@ -1,0 +1,72 @@
+This File contains all the available Keys and Shortcuts you can call in applepyautomator
+
+Keys in COMMON_KEYS class
+ESC (Escape)
+DELETE (Delete)
+TAB (Tab)
+LSHIFT (Left Shift)
+RSHIFT (Right Shift)
+FN (Function)
+CONTROL (Control)
+OPTION (Option)
+COMMAND (Command)
+SPACE (Space)
+RETURN (Return)
+ENTER (Enter)
+ARROW_UP (Up Arrow)
+ARROW_DOWN (Down Arrow)
+ARROW_LEFT (Left Arrow)
+ARROW_RIGHT (Right Arrow)
+HOME (Home)
+END (End)
+PAGE_UP (Page Up)
+PAGE_DOWN (Page Down)
+
+Keys in ALPHABETS class
+a to z (26 keys)
+A to Z (26 keys)
+
+Keys in NUMBERS class
+0 to 9 (10 keys)
+
+Keys in FUNCT_KEYS class
+F1 to F12
+
+Keys in SPECIAL_CHARS class
+~ TILDE
+[ BRACKET_OPEN 
+{ CURLYBRACKET_OPEN 
+] BRACKET_CLOSE 
+} CURLYBRACKET_CLOSE 
+\ BACKSLASH
+| PIPE
+; SEMICOLON
+: COLON
+' SINGLEQUOTE
+" DOUBLEQUOTE
+, COMA
+< LESSTHAN
+. PERIOD
+> GREATERTHAN
+/ FORWARDSLASH
+? QUESTIONMARK
+! EXCLAIMATIONMARK
+@ AT_THERATE
+# HASH
+$ DOLLAR
+% PERCENT
+^ CARROT
+& AMPERSAND
+* ASTERISK
+( PARENTHESES_OPEN
+) PARENTHESIS_CLOSE
+- SUBTRACT
++ ADD
+_ UNDERSCORE
+= EQUAL
+
+Keys in SHORTCUTS class
+(CTRL + A)    SELECT_ALL
+(CTRL + C)    COPY
+(CTRL + P)    PASTE
+(CTRL + F)    FIND
