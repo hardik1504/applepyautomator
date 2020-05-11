@@ -117,7 +117,7 @@ automator.press_key(COMMON_KEYS.ENTER, delay=2)
 
 in above example program will wait for 2 seconds before performing the ENTER key press.
 
-more usage examples can be found in examples.py file
+more usage examples can be found in example.py file
 
 #### Credits
 
