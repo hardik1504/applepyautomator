@@ -4,7 +4,7 @@ setup(
   packages=['applepyautomator'],
   version='0.1',
   license='MIT',
-  description='TYPE YOUR DESCRIPTION HERE',
+  description='applepyautomator is a simplified implementation of applescript automation for macOs in python3. With applepyautomator you can easily automate ur macOs without having to write applescript or using automator.',
   author='Hardik Sharma',
   author_email='sharmahardikdev@gmail.com',
   url='https://github.com/hardik1504/applepyautomator',
