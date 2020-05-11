@@ -13,7 +13,7 @@ applepyautomator was written with focus on simplicity. It provides applescript a
 ### Getting it
 To download applepyautomator, either fork this github repo or simply use Pypi via pip.
 ```
-$pip3 install packagename
+$pip3 install applepyautomator
 ```
 
 ### Using it
