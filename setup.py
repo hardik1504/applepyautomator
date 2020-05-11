@@ -15,7 +15,7 @@ setup(
   author='Hardik Sharma',
   author_email='sharmahardikdev@gmail.com',
   url='https://github.com/hardik1504/applepyautomator',
-  download_url='https://github.com/hardik1504/applepyautomator/archive/v_0.2.tar.gz',
+  download_url='https://github.com/hardik1504/applepyautomator/archive/v_0.3.tar.gz',
   keywords=['applescript', 'automation'],
   install_requires=[],
   classifiers=[
